@@ -1,4 +1,5 @@
 # Algorithm Analysis and Decision Tree Classifier
+**Team 9. Maryna Ohinska, Maksym Hobela**
 
 ## Overview
 This repository contains implementations and performance analysis of classical graph algorithms and a decision tree classifier. The project is structured into two main parts:
